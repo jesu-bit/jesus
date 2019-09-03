@@ -1,0 +1,1332 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)https://animeboom.net/ -->
+<html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css" id="alertifyCSS">.alertify-logs>*{padding:12px 24px;color:#fff;box-shadow:0 2px 5px 0 rgba(0,0,0,.2);border-radius:1px}.alertify-logs>*,.alertify-logs>.default{background:rgba(0,0,0,.8)}.alertify-logs>.error{background:rgba(244,67,54,.8)}.alertify-logs>.success{background:rgba(76,175,80,.9)}.alertify{position:fixed;background-color:rgba(0,0,0,.3);left:0;right:0;top:0;bottom:0;width:100%;height:100%;z-index:1}.alertify.hide{opacity:0;pointer-events:none}.alertify,.alertify.show{box-sizing:border-box;transition:all .33s cubic-bezier(.25,.8,.25,1)}.alertify,.alertify *{box-sizing:border-box}.alertify .dialog{padding:12px}.alertify .alert,.alertify .dialog{width:100%;margin:0 auto;position:relative;top:50%;transform:translateY(-50%)}.alertify .alert>*,.alertify .dialog>*{width:400px;max-width:95%;margin:0 auto;text-align:center;padding:12px;background:#fff;box-shadow:0 2px 4px -1px rgba(0,0,0,.14),0 4px 5px 0 rgba(0,0,0,.098),0 1px 10px 0 rgba(0,0,0,.084)}.alertify .alert .msg,.alertify .dialog .msg{padding:12px;margin-bottom:12px;margin:0;text-align:left}.alertify .alert input:not(.form-control),.alertify .dialog input:not(.form-control){margin-bottom:15px;width:100%;font-size:100%;padding:12px}.alertify .alert input:not(.form-control):focus,.alertify .dialog input:not(.form-control):focus{outline-offset:-2px}.alertify .alert nav,.alertify .dialog nav{text-align:right}.alertify .alert nav button:not(.btn):not(.pure-button):not(.md-button):not(.mdl-button),.alertify .dialog nav button:not(.btn):not(.pure-button):not(.md-button):not(.mdl-button){background:transparent;box-sizing:border-box;color:rgba(0,0,0,.87);position:relative;outline:0;border:0;display:inline-block;-ms-flex-align:center;-ms-grid-row-align:center;align-items:center;padding:0 6px;margin:6px 8px;line-height:36px;min-height:36px;white-space:nowrap;min-width:88px;text-align:center;text-transform:uppercase;font-size:14px;text-decoration:none;cursor:pointer;border:1px solid transparent;border-radius:2px}.alertify .alert nav button:not(.btn):not(.pure-button):not(.md-button):not(.mdl-button):active,.alertify .alert nav button:not(.btn):not(.pure-button):not(.md-button):not(.mdl-button):hover,.alertify .dialog nav button:not(.btn):not(.pure-button):not(.md-button):not(.mdl-button):active,.alertify .dialog nav button:not(.btn):not(.pure-button):not(.md-button):not(.mdl-button):hover{background-color:rgba(0,0,0,.05)}.alertify .alert nav button:not(.btn):not(.pure-button):not(.md-button):not(.mdl-button):focus,.alertify .dialog nav button:not(.btn):not(.pure-button):not(.md-button):not(.mdl-button):focus{border:1px solid rgba(0,0,0,.1)}.alertify .alert nav button.btn,.alertify .dialog nav button.btn{margin:6px 4px}.alertify-logs{position:fixed;z-index:1}.alertify-logs.bottom,.alertify-logs:not(.top){bottom:16px}.alertify-logs.left,.alertify-logs:not(.right){left:16px}.alertify-logs.left>*,.alertify-logs:not(.right)>*{float:left;transform:translateZ(0);height:auto}.alertify-logs.left>.show,.alertify-logs:not(.right)>.show{left:0}.alertify-logs.left>*,.alertify-logs.left>.hide,.alertify-logs:not(.right)>*,.alertify-logs:not(.right)>.hide{left:-110%}.alertify-logs.right{right:16px}.alertify-logs.right>*{float:right;transform:translateZ(0)}.alertify-logs.right>.show{right:0;opacity:1}.alertify-logs.right>*,.alertify-logs.right>.hide{right:-110%;opacity:0}.alertify-logs.top{top:0}.alertify-logs>*{box-sizing:border-box;transition:all .4s cubic-bezier(.25,.8,.25,1);position:relative;clear:both;backface-visibility:hidden;perspective:1000;max-height:0;margin:0;padding:0;overflow:hidden;opacity:0;pointer-events:none}.alertify-logs>.show{margin-top:12px;opacity:1;max-height:1000px;padding:12px;pointer-events:auto}</style>
+
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Ver Anime Online en HD Sub Español | AnimeBoom</title>
+<meta name="description" content="Ver Anime Online Gratis, mira los ultimos capitulos de los animes del momento sin ninguna restriccion subtitulados al español en AnimeBoom. Ver online y Descargar">
+<meta name="keywords" content="series, anime, videos,descargas">
+<meta name="robots" content="all">
+<meta property="og:title" content="Ver Anime Online en HD Sub Español | AnimeBoom">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://animeboom.net">
+<meta property="og:image" content="https://animeboom.net/images/logo-social.png">
+<meta property="og:site_name" content="AnimeBoom">
+<meta property="og:description" content="Ver Anime Online Gratis, mira los ultimos capitulos de los animes del momento sin ninguna restriccion subtitulados al español en AnimeBoom. Ver online y Descargar">
+<meta property="og:locale" content="es_ES">
+<meta property="og:locale:alternate" content="en_US">
+<meta property="article:publisher" content="https://www.facebook.com/2113193852299137">
+<meta property="fb:app_id" content="305928539942207">
+<link rel="icon" type="image/ico" href="https://animeboom.net/favicon.ico">
+<meta name="csrf-token" content="pkYXToW6TQP1wKlKFJbn2AU4Y4kjvt0almEWuFxz">
+<link href="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/owl.carousel.min.css">
+<link rel="stylesheet" href="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/scrollbar.css">
+<link rel="stylesheet" href="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/owl.theme.default.min.css">
+<link rel="stylesheet" href="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/dark.css"><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style></head>
+<body style="">
+<header class="main-header">
+    <div class="ed-container">
+        <div class="ed-item s-1-3 m-1-3 l-15 logo-header">
+            <a href="https://animeboom.net/">
+                <img class="logo" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/logo.png" alt="Ver Anime Online en HD Sub Español">
+            </a>
+        </div>
+        <div class="ed-item s-1-3 m-1-3 l-30 search-header">
+            <div class="content-search">
+                <form action="https://animeboom.net/search" method="get">
+                    <input type="text" class="form-control input-search" name="s" id="search-tv" autocomplete="off" placeholder="Buscar serie..">
+                    <button><i class="fa fa-search"></i></button>
+                </form>
+                <div class="content-search-ajax">
+                    <ul class="list-results">
+                    </ul>
+                </div>
+            </div>
+            <div id="buscador-menu" class="buscador-menu">
+            </div>
+        </div>
+        <div class="ed-item s-1-3 m-1-3 l-55 menu-list-header">
+            <nav id="nav" class="main-nav">
+                <ul id="menu" class="main-menu">
+                    <li class="main-menu__item">
+                        <a class="main-menu__link active" href="https://animeboom.net/">
+                            <span class="fa fa-home"></span> Inicio</a>
+                    </li>
+                    <li class="main-menu__item">
+                        <a href="https://animeboom.net/series" class="main-menu__link"><span class="fa fa-tv"></span> Animes</a>
+                    </li>
+                    <li class="main-menu__item">
+                        <a class="main-menu__link" href="https://animeboom.net/emision">
+                            <span class="fa fa-play"></span> En Emisión</a>
+                    </li>
+                    <li class="main-menu__item parent-submenu">
+                        <a href="https://animeboom.net/#" class="main-menu__link"><span class="fa fa-star"></span> Tipos</a>
+                        <ul class="parent-submenu">
+                            <li><a href="https://animeboom.net/tv">
+                              TV</a></li>                            <li><a href="https://animeboom.net/ona">
+                              ONA</a></li>                            <li><a href="https://animeboom.net/ova">
+                              OVA</a></li>                            <li><a href="https://animeboom.net/peliculas">
+                              Peliculas</a></li>                            <li><a href="https://animeboom.net/specials">
+                              Especiales</a></li>
+                        </ul>
+                    <div class="expand-submenu"></div></li>
+                                            <li class="login"><a href="https://animeboom.net/login" class="main-menu__link">
+                            <span class="fa fa-sign-in"></span> Login</a></li>
+                                
+                                    </ul>
+            </nav>
+            <div id="nav-toggle" class="nav-toggle"></div>
+        </div>
+        <div id="buscador-mobil" class="bloque-buscador ed-item s-100">
+            <form action="https://animeboom.net/search" method="get" class="form-buscador">
+                <input class="form-input" type="text" placeholder="Buscar serie" name="s">
+                <input type="button" class="boton-search" value="Buscar serie">
+            </form>
+        </div>
+    </div>
+</header><section class="home-series-populares">
+    <div class="ed-container">
+        <div class="ed-item s-100">
+            <h2 class="home-series-populares__h2 ed-item s-100">Animes
+                Mas Populares</h2>
+            <div class="owl-carousel owl-loaded owl-drag">
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2805px, 0px, 0px); transition: all 0s ease 0s; width: 5797px;"><div class="owl-item cloned" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka" title="Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka-5d2361ac38ff4.jpg" alt="Kawaikereba Hentai demo Suki ni Natte Kuremasu ka? Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 96</span>
+                        </div>
+                    </a></div><div class="owl-item cloned" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii" title="Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-5d2260bb386b2.jpg" alt="Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 97</span>
+                        </div>
+                    </a></div><div class="owl-item cloned" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-arifureta-shokugyou-de-sekai-saikyou" title="Arifureta Shokugyou de Sekai Saikyou">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_arifureta-shokugyou-de-sekai-saikyou-5d238eb77e0c7.jpg" alt="Arifureta Shokugyou de Sekai Saikyou Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Arifureta Shokugyou de Sekai Saikyou</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 95</span>
+                        </div>
+                    </a></div><div class="owl-item cloned" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-isekai-cheat-magician" title="Isekai Cheat Magician">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_isekai-cheat-magician-5d25f374c5d1e.jpg" alt="Isekai Cheat Magician Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Isekai Cheat Magician</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 92</span>
+                        </div>
+                    </a></div><div class="owl-item cloned" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-boruto-naruto-next-generations" title="Boruto: Naruto Next Generations">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_boruto-naruto-next-generations-5b06e7c381cfc.jpg" alt="Boruto: Naruto Next Generations Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Boruto: Naruto Next Generations</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 92</span>
+                        </div>
+                    </a></div><div class="owl-item cloned" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-dumbbell-nan-kilo-moteru" title="Dumbbell Nan Kilo Moteru?">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_dumbbell-nan-kilo-moteru-5d1cf8ed63c48.jpg" alt="Dumbbell Nan Kilo Moteru? Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Dumbbell Nan Kilo Moteru?</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 96</span>
+                        </div>
+                    </a></div><div class="owl-item cloned" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-fairy-tail-final-series" title="Fairy Tail: Final Series">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_fairy-tail-final-series-5bb945abb5582.jpg" alt="Fairy Tail: Final Series Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Fairy Tail: Final Series</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 97</span>
+                        </div>
+                    </a></div><div class="owl-item cloned" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-fruits-basket-2019" title="Fruits Basket (2019)">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_fruits-basket-2019-5ca7baba8ce96.jpg" alt="Fruits Basket (2019) Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Fruits Basket (2019)</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 95</span>
+                        </div>
+                    </a></div><div class="owl-item" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-dr-stone" title="Dr. Stone">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_dr-stone-5d1f65112d1c5.jpg" alt="Dr. Stone Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Dr. Stone</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 97</span>
+                        </div>
+                    </a></div><div class="owl-item" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-kimetsu-no-yaiba" title="Kimetsu no Yaiba">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_kimetsu-no-yaiba-5ca8cfbf941a1.jpg" alt="Kimetsu no Yaiba Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Kimetsu no Yaiba</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 95</span>
+                        </div>
+                    </a></div><div class="owl-item" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-vinland-saga" title="Vinland Saga">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_vinland-saga-5d2259b1700b5.jpg" alt="Vinland Saga Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Vinland Saga</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 97</span>
+                        </div>
+                    </a></div><div class="owl-item" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-enen-no-shouboutai" title="Enen no Shouboutai">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_enen-no-shouboutai-5d1fcd5569c2b.jpg" alt="Enen no Shouboutai Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Enen no Shouboutai</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 96</span>
+                        </div>
+                    </a></div><div class="owl-item" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-re-stage-dream-days" title="Re:Stage! Dream Days♪">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_restage-dream-days-5d22d9fb00083.jpg" alt="Re:Stage! Dream Days♪ Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Re:Stage! Dream Days♪</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 98</span>
+                        </div>
+                    </a></div><div class="owl-item" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-black-clover-tv" title="Black Clover (TV)">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_black-clover-tv-5b0d776c41f45.jpg" alt="Black Clover (TV) Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Black Clover (TV)</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 96</span>
+                        </div>
+                    </a></div><div class="owl-item" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-tejina-senpai" title="Tejina-senpai">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_tejina-senpai-5d1b58ca40253.jpg" alt="Tejina-senpai Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Tejina-senpai</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 93</span>
+                        </div>
+                    </a></div><div class="owl-item active" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka" title="Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka-5d2361ac38ff4.jpg" alt="Kawaikereba Hentai demo Suki ni Natte Kuremasu ka? Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 96</span>
+                        </div>
+                    </a></div><div class="owl-item active" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii" title="Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-5d2260bb386b2.jpg" alt="Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 97</span>
+                        </div>
+                    </a></div><div class="owl-item" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-arifureta-shokugyou-de-sekai-saikyou" title="Arifureta Shokugyou de Sekai Saikyou">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_arifureta-shokugyou-de-sekai-saikyou-5d238eb77e0c7.jpg" alt="Arifureta Shokugyou de Sekai Saikyou Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Arifureta Shokugyou de Sekai Saikyou</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 95</span>
+                        </div>
+                    </a></div><div class="owl-item" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-isekai-cheat-magician" title="Isekai Cheat Magician">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_isekai-cheat-magician-5d25f374c5d1e.jpg" alt="Isekai Cheat Magician Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Isekai Cheat Magician</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 92</span>
+                        </div>
+                    </a></div><div class="owl-item" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-boruto-naruto-next-generations" title="Boruto: Naruto Next Generations">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_boruto-naruto-next-generations-5b06e7c381cfc.jpg" alt="Boruto: Naruto Next Generations Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Boruto: Naruto Next Generations</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 92</span>
+                        </div>
+                    </a></div><div class="owl-item" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-dumbbell-nan-kilo-moteru" title="Dumbbell Nan Kilo Moteru?">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_dumbbell-nan-kilo-moteru-5d1cf8ed63c48.jpg" alt="Dumbbell Nan Kilo Moteru? Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Dumbbell Nan Kilo Moteru?</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 96</span>
+                        </div>
+                    </a></div><div class="owl-item" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-fairy-tail-final-series" title="Fairy Tail: Final Series">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_fairy-tail-final-series-5bb945abb5582.jpg" alt="Fairy Tail: Final Series Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Fairy Tail: Final Series</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 97</span>
+                        </div>
+                    </a></div><div class="owl-item" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-fruits-basket-2019" title="Fruits Basket (2019)">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_fruits-basket-2019-5ca7baba8ce96.jpg" alt="Fruits Basket (2019) Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Fruits Basket (2019)</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 95</span>
+                        </div>
+                    </a></div><div class="owl-item cloned" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-dr-stone" title="Dr. Stone">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_dr-stone-5d1f65112d1c5.jpg" alt="Dr. Stone Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Dr. Stone</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 97</span>
+                        </div>
+                    </a></div><div class="owl-item cloned" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-kimetsu-no-yaiba" title="Kimetsu no Yaiba">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_kimetsu-no-yaiba-5ca8cfbf941a1.jpg" alt="Kimetsu no Yaiba Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Kimetsu no Yaiba</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 95</span>
+                        </div>
+                    </a></div><div class="owl-item cloned" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-vinland-saga" title="Vinland Saga">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_vinland-saga-5d2259b1700b5.jpg" alt="Vinland Saga Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Vinland Saga</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 97</span>
+                        </div>
+                    </a></div><div class="owl-item cloned" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-enen-no-shouboutai" title="Enen no Shouboutai">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_enen-no-shouboutai-5d1fcd5569c2b.jpg" alt="Enen no Shouboutai Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Enen no Shouboutai</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 96</span>
+                        </div>
+                    </a></div><div class="owl-item cloned" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-re-stage-dream-days" title="Re:Stage! Dream Days♪">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_restage-dream-days-5d22d9fb00083.jpg" alt="Re:Stage! Dream Days♪ Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Re:Stage! Dream Days♪</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 98</span>
+                        </div>
+                    </a></div><div class="owl-item cloned" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-black-clover-tv" title="Black Clover (TV)">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_black-clover-tv-5b0d776c41f45.jpg" alt="Black Clover (TV) Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Black Clover (TV)</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 96</span>
+                        </div>
+                    </a></div><div class="owl-item cloned" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-tejina-senpai" title="Tejina-senpai">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_tejina-senpai-5d1b58ca40253.jpg" alt="Tejina-senpai Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Tejina-senpai</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 93</span>
+                        </div>
+                    </a></div><div class="owl-item cloned" style="width: 183px; margin-right: 4px;"><a href="https://animeboom.net/v-kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka" title="Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?">
+                        <div class="tv-serie">
+                          <img class="tv-serie__img" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka-5d2361ac38ff4.jpg" alt="Kawaikereba Hentai demo Suki ni Natte Kuremasu ka? Online">
+                            <span class="preview-overlay-container"></span>
+                          <span class="tv-serie__span">Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?</span>
+                            <span class="stars-rating"><i class="fa fa-star"></i> 96</span>
+                        </div>
+                    </a></div></div></div><div class="owl-nav disabled"><div class="owl-prev">prev</div><div class="owl-next">next</div></div><div class="owl-dots"><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+        </div>
+    </div>
+</section><section class="home-episodios-estrenos">
+    <div class="ed-container">
+        <div class="ed-item s-100">
+            <div class="box-head">
+                <h2 class="box-head__title">Episodios Estreno</h2>
+            </div>
+            <div class="episodie-grid">
+            <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/shoujo-conte-all-starlight-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d50cf3bafa33.jpg" alt="Shoujo☆Conte All Starlight Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Shoujo☆Conte All Starlight Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/shoujo-conte-all-starlight-capitulo-8-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d50cf3bafa33.jpg" alt="Shoujo☆Conte All Starlight Capítulo 8 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Shoujo☆Conte All Starlight Capítulo 8 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 8</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/shoujo-conte-all-starlight-capitulo-7-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d50cf3bafa33.jpg" alt="Shoujo☆Conte All Starlight Capítulo 7 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Shoujo☆Conte All Starlight Capítulo 7 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 7</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/kochouki-wakaki-nobunaga-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d37d925b4d52.jpg" alt="Kochouki: Wakaki Nobunaga Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Kochouki: Wakaki Nobunaga Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/karakai-jouzu-no-takagi-san-2-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d22b17991be2.jpg" alt="Karakai Jouzu no Takagi-san 2 Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Karakai Jouzu no Takagi-san 2 Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/cop-craft-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d23b06747d43.jpg" alt="Cop Craft Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Cop Craft Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/arifureta-shokugyou-de-sekai-saikyou-capitulo-8-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d24213c8f663.jpg" alt="Arifureta Shokugyou de Sekai Saikyou Capítulo 8 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Arifureta Shokugyou de Sekai Saikyou Capítulo 8 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 8</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/starmyu-3rd-season-capitulo-10-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d1a1892e31f1.jpg" alt="Starmyu 3rd Season Capítulo 10 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Starmyu 3rd Season Capítulo 10 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 10</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/katsute-kami-datta-kemono-tachi-e-capitulo-10-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d1a19916468c.jpg" alt="Katsute Kami Datta Kemono-tachi e Capítulo 10 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Katsute Kami Datta Kemono-tachi e Capítulo 10 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 10</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d2420c587bcc.jpg" alt="Kawaikereba Hentai demo Suki ni Natte Kuremasu ka? Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Kawaikereba Hentai demo Suki ni Natte Kuremasu ka? Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/ensemble-stars-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d225ff840baf.jpg" alt="Ensemble Stars! Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Ensemble Stars! Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/re-stage-dream-days-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d22d9fb13271.jpg" alt="Re:Stage! Dream Days♪ Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Re:Stage! Dream Days♪ Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/yami-shibai-7-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d224cd80a03e.jpg" alt="Yami Shibai 7 Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Yami Shibai 7 Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/pokemon-sun-moon-capitulo-137-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5c6cb611e5e19.jpg" alt="Pokemon Sun &amp; Moon Capítulo 137 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Pokemon Sun &amp; Moon Capítulo 137 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 137</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/bem-capitulo-6-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d2b84b4f1cbc.jpg" alt="Bem Capítulo 6 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Bem Capítulo 6 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 6</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/vinland-saga-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d2259b17e026.jpg" alt="Vinland Saga Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Vinland Saga Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/nakanohito-genome-jikkyouchuu-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d223077dbc9b.jpg" alt="Nakanohito Genome [Jikkyouchuu] Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Nakanohito Genome [Jikkyouchuu] Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/boruto-naruto-next-generations-capitulo-122-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5c31c9d1d5921.jpg" alt="Boruto: Naruto Next Generations Capítulo 122 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Boruto: Naruto Next Generations Capítulo 122 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 122</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/one-piece-capitulo-900-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5c56c182abe78.jpg" alt="One Piece Capítulo 900 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">One Piece Capítulo 900 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 900</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/gegege-no-kitarou-2018-capitulo-71-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5c56c1a6c93ff.jpg" alt="Gegege no Kitarou (2018) Capítulo 71 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Gegege no Kitarou (2018) Capítulo 71 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 71</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/fairy-tail-final-series-capitulo-47-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5c96b56a41451.jpg" alt="Fairy Tail: Final Series Capítulo 47 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Fairy Tail: Final Series Capítulo 47 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 47</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/hakata-mentai-pirikarako-chan-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d2128fa4e810.jpg" alt="Hakata Mentai! Pirikarako-chan Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Hakata Mentai! Pirikarako-chan Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/carole-tuesday-capitulo-12-audio-latino">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d6ac393d78ac.jpg" alt="Carole &amp; Tuesday Capítulo 12 Audio Latino">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Carole &amp; Tuesday Capítulo 12 Audio Latino</span>
+            </a>
+                            <span class="number">Episodio 12</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/mix-meisei-story-capitulo-21-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5ca9282491bcc.jpg" alt="Mix: Meisei Story Capítulo 21 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Mix: Meisei Story Capítulo 21 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 21</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/senki-zesshou-symphogear-xv-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d20d5f9851c7.jpg" alt="Senki Zesshou Symphogear XV Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Senki Zesshou Symphogear XV Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d20d1d02ea65.jpg" alt="Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/kimetsu-no-yaiba-capitulo-22-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5ca8cfbfab0be.jpg" alt="Kimetsu no Yaiba Capítulo 22 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Kimetsu no Yaiba Capítulo 22 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 22</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/monster-strike-the-animation-capitulo-50-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5c2b49bc53621.jpg" alt="Monster Strike The Animation Capítulo 50 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Monster Strike The Animation Capítulo 50 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 50</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/choujigen-game-neptune-the-animation-nep-no-natsuyasumi-capitulo-1-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d69ddcf74795.jpg" alt="Choujigen Game Neptune The Animation: Nep no Natsuyasumi Capítulo 1 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Choujigen Game Neptune The Animation: Nep no Natsuyasumi Capítulo 1 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 1</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/fruits-basket-2019-capitulo-22-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5ca7babaac2b2.jpg" alt="Fruits Basket (2019) Capítulo 22 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Fruits Basket (2019) Capítulo 22 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 22</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/joshikousei-no-mudazukai-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d1fa7627005f.jpg" alt="Joshikousei no Mudazukai Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Joshikousei no Mudazukai Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/araburu-kisetsu-no-otome-domo-yo-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d29eea26d787.jpg" alt="Araburu Kisetsu no Otome-domo yo. Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Araburu Kisetsu no Otome-domo yo. Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/granbelm-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d1fa394ef2b1.jpg" alt="Granbelm Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Granbelm Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/enen-no-shouboutai-capitulo-8-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d1fcd5577bcf.jpg" alt="Enen no Shouboutai Capítulo 8 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Enen no Shouboutai Capítulo 8 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 8</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/toaru-kagaku-no-accelerator-capitulo-8-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d281b0c7d654.jpg" alt="Toaru Kagaku no Accelerator Capítulo 8 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Toaru Kagaku no Accelerator Capítulo 8 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 8</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/tsuujou-kougeki-ga-zentai-kougeki-de-ni-kai-kougeki-no-okaasan-wa-suki-desu-ka-capitulo-8-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d281ca97cbe2.jpg" alt="Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? Capítulo 8 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? Capítulo 8 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 8</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-capitulo-8-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d2260bb476f8.jpg" alt="Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II Capítulo 8 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II Capítulo 8 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 8</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/dr-stone-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d1f65113dbe5.jpg" alt="Dr. Stone Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Dr. Stone Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/given-capitulo-8-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d274df300aab.jpg" alt="Given Capítulo 8 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Given Capítulo 8 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 8</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/machikado-mazoku-capitulo-8-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d27b8cdd58e7.jpg" alt="Machikado Mazoku Capítulo 8 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Machikado Mazoku Capítulo 8 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 8</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/carole-tuesday-capitulo-19-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5caf8eef97b13.jpg" alt="Carole &amp; Tuesday Capítulo 19 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Carole &amp; Tuesday Capítulo 19 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 19</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d1e408acdf3f.jpg" alt="Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai. Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai. Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/dumbbell-nan-kilo-moteru-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d1cf8ed731bc.jpg" alt="Dumbbell Nan Kilo Moteru? Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Dumbbell Nan Kilo Moteru? Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/maou-sama-retry-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d1d86c1436e9.jpg" alt="Maou-sama, Retry! Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Maou-sama, Retry! Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/kanata-no-astra-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d1d53075c877.jpg" alt="Kanata no Astra Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Kanata no Astra Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/isekai-cheat-magician-capitulo-8-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d25f374d6626.jpg" alt="Isekai Cheat Magician Capítulo 8 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Isekai Cheat Magician Capítulo 8 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 8</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/yu-gi-oh-vrains-capitulo-116-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5c1a35af14494.jpg" alt="Yu☆Gi☆Oh! VRAINS Capítulo 116 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Yu☆Gi☆Oh! VRAINS Capítulo 116 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 116</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/try-knights-capitulo-5-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d40856177f9b.jpg" alt="Try Knights Capítulo 5 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Try Knights Capítulo 5 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 5</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-capitulo-21-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5ca4b97fd1b6c.jpg" alt="Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Capítulo 21 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Capítulo 21 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 21</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+    <div class="episodie">
+        <figure class="image">
+            <a href="https://animeboom.net/v/sounan-desu-ka-capitulo-9-sub-espanol">
+                                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/m_episodie5d1b68b5731aa.jpg" alt="Sounan Desu ka? Capítulo 9 Sub Español">
+                                <span class="preview-overlay-container">
+                   <span class="preview-overlay epi"></span>
+                 </span>
+                <span class="title">Sounan Desu ka? Capítulo 9 Sub Español</span>
+            </a>
+                            <span class="number">Episodio 9</span>
+                         <span class="estreno">Estreno</span>
+        </figure>
+    </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="home-nuevas-series">
+    <div class="ed-container">
+        <div class="ed-item s-100 box-head">
+            <h2 class="box-head__title">
+                Nuevos Animes<span><a class="ver-mas" href="https://animeboom.net/series">Más</a></span>
+            </h2>
+            <div class="box-head__subtitle">Últimos animes agregados</div>
+        </div>
+        <div class="ed-item s-100">
+            <div class="list-series">
+                ﻿<article class="serie">
+    <figure class="image">
+        <a href="https://animeboom.net/v-fate-stay-night-unlimited-blade-works" title="Fate/stay night: Unlimited Blade Works Online">
+            <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_fatestay-night-unlimited-blade-works-5d6b36b0f1287.jpg" alt="Fate/stay night: Unlimited Blade Works">
+            <span class="preview-overlay-container">
+            </span>
+        </a>
+        <span class="year">2014</span>
+                          <span class="animes">Anime</span>
+                                            </figure>
+    <div class="title">
+        <h3><a href="https://animeboom.net/v-fate-stay-night-unlimited-blade-works" title="Fate/stay night: Unlimited Blade Works Online">Fate/stay night: Unlimited Blade Works</a></h3>
+    </div>
+</article>
+<article class="serie">
+    <figure class="image">
+        <a href="https://animeboom.net/v-fate-zero-onegai-einzbern-soudanshitsu" title="Fate/Zero: Onegai! Einzbern Soudanshitsu Online">
+            <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_fatezero-onegai-einzbern-soudanshitsu-5d6b3465c477a.jpg" alt="Fate/Zero: Onegai! Einzbern Soudanshitsu">
+            <span class="preview-overlay-container">
+            </span>
+        </a>
+        <span class="year">2012</span>
+                                                          <span class="specials">Especial</span>
+            </figure>
+    <div class="title">
+        <h3><a href="https://animeboom.net/v-fate-zero-onegai-einzbern-soudanshitsu" title="Fate/Zero: Onegai! Einzbern Soudanshitsu Online">Fate/Zero: Onegai! Einzbern Soudanshitsu</a></h3>
+    </div>
+</article>
+<article class="serie">
+    <figure class="image">
+        <a href="https://animeboom.net/v-fate-zero-2nd-season" title="Fate/Zero 2nd Season Online">
+            <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_fatezero-2nd-season-5d6ada428dc32.jpg" alt="Fate/Zero 2nd Season">
+            <span class="preview-overlay-container">
+            </span>
+        </a>
+        <span class="year">2012</span>
+                          <span class="animes">Anime</span>
+                                            </figure>
+    <div class="title">
+        <h3><a href="https://animeboom.net/v-fate-zero-2nd-season" title="Fate/Zero 2nd Season Online">Fate/Zero 2nd Season</a></h3>
+    </div>
+</article>
+<article class="serie">
+    <figure class="image">
+        <a href="https://animeboom.net/v-carole-tuesday-audio-latino" title="Carole &amp; Tuesday Audio Latino Online">
+            <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_carole-tuesday-audio-latino-5d6ac393c7eb2.jpg" alt="Carole &amp; Tuesday Audio Latino">
+            <span class="preview-overlay-container">
+            </span>
+        </a>
+        <span class="year">2019</span>
+                          <span class="animes">Anime</span>
+                                            </figure>
+    <div class="title">
+        <h3><a href="https://animeboom.net/v-carole-tuesday-audio-latino" title="Carole &amp; Tuesday Audio Latino Online">Carole &amp; Tuesday Audio Latino</a></h3>
+    </div>
+</article>
+<article class="serie">
+    <figure class="image">
+        <a href="https://animeboom.net/v-choujigen-game-neptune-the-animation-nep-no-natsuyasumi" title="Choujigen Game Neptune The Animation: Nep no Natsuyasumi Online">
+            <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_choujigen-game-neptune-the-animation-nep-no-natsuyasumi-5d69ddcf63398.jpg" alt="Choujigen Game Neptune The Animation: Nep no Natsuyasumi">
+            <span class="preview-overlay-container">
+            </span>
+        </a>
+        <span class="year">2019</span>
+                                          <span class="ovas">OVA</span>
+                            </figure>
+    <div class="title">
+        <h3><a href="https://animeboom.net/v-choujigen-game-neptune-the-animation-nep-no-natsuyasumi" title="Choujigen Game Neptune The Animation: Nep no Natsuyasumi Online">Choujigen Game Neptune The Animation: Nep no Natsuyasumi</a></h3>
+    </div>
+</article>
+<article class="serie">
+    <figure class="image">
+        <a href="https://animeboom.net/v-fate-stay-night-audio-latino" title="Fate/stay night Audio Latino Online">
+            <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_fatestay-night-audio-latino-5d65d8ce74bf1.jpg" alt="Fate/stay night Audio Latino">
+            <span class="preview-overlay-container">
+            </span>
+        </a>
+        <span class="year">2006</span>
+                          <span class="animes">Anime</span>
+                                            </figure>
+    <div class="title">
+        <h3><a href="https://animeboom.net/v-fate-stay-night-audio-latino" title="Fate/stay night Audio Latino Online">Fate/stay night Audio Latino</a></h3>
+    </div>
+</article>
+<article class="serie">
+    <figure class="image">
+        <a href="https://animeboom.net/v-kamisama-hajimemashita-2nd-season-audio-latino" title="Kamisama Hajimemashita◎ 2nd Season Audio Latino Online">
+            <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_kamisama-hajimemashita-5d6597831db8d.jpg" alt="Kamisama Hajimemashita◎ 2nd Season Audio Latino">
+            <span class="preview-overlay-container">
+            </span>
+        </a>
+        <span class="year">2015</span>
+                          <span class="animes">Anime</span>
+                                            </figure>
+    <div class="title">
+        <h3><a href="https://animeboom.net/v-kamisama-hajimemashita-2nd-season-audio-latino" title="Kamisama Hajimemashita◎ 2nd Season Audio Latino Online">Kamisama Hajimemashita◎ 2nd Season Audio Latino</a></h3>
+    </div>
+</article>
+<article class="serie">
+    <figure class="image">
+        <a href="https://animeboom.net/v-kamisama-hajimemashita-audio-latino" title="Kamisama Hajimemashita Audio Latino Online">
+            <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_kamisama-hajimemashita-audio-latino-5d61e693b6496.jpg" alt="Kamisama Hajimemashita Audio Latino">
+            <span class="preview-overlay-container">
+            </span>
+        </a>
+        <span class="year">2012</span>
+                          <span class="animes">Anime</span>
+                                            </figure>
+    <div class="title">
+        <h3><a href="https://animeboom.net/v-kamisama-hajimemashita-audio-latino" title="Kamisama Hajimemashita Audio Latino Online">Kamisama Hajimemashita Audio Latino</a></h3>
+    </div>
+</article>
+<article class="serie">
+    <figure class="image">
+        <a href="https://animeboom.net/v-cannon-busters-audio-latino" title="Cannon Busters Audio Latino Online">
+            <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_cannon-busters-audio-latino-5d61cd8a07326.jpg" alt="Cannon Busters Audio Latino">
+            <span class="preview-overlay-container">
+            </span>
+        </a>
+        <span class="year">2019</span>
+                                                  <span class="onas">ONA</span>
+                    </figure>
+    <div class="title">
+        <h3><a href="https://animeboom.net/v-cannon-busters-audio-latino" title="Cannon Busters Audio Latino Online">Cannon Busters Audio Latino</a></h3>
+    </div>
+</article>
+<article class="serie">
+    <figure class="image">
+        <a href="https://animeboom.net/v-hero-mask-2019-audio-latino" title="Hero Mask (2019) Audio Latino Online">
+            <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_hero-mask-2019-audio-latino-5d6177b01bafd.jpg" alt="Hero Mask (2019) Audio Latino">
+            <span class="preview-overlay-container">
+            </span>
+        </a>
+        <span class="year">2019</span>
+                                                  <span class="onas">ONA</span>
+                    </figure>
+    <div class="title">
+        <h3><a href="https://animeboom.net/v-hero-mask-2019-audio-latino" title="Hero Mask (2019) Audio Latino Online">Hero Mask (2019) Audio Latino</a></h3>
+    </div>
+</article>
+        </div>
+        <div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div><iframe name="fb_xdm_frame_https" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/xd_arbiter.html" style="border: none;"></iframe></div><div></div></div></div>
+<script type="text/javascript" async="" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/analytics.js.descarga"></script><script src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/sdk.js.descarga" async="" crossorigin="anonymous"></script><script id="facebook-jssdk" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/sdk.js(1).descarga"></script><script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.1&appId=305928539942207";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+            <h4 class="bloq-title"><i class="fa fa-comments"></i> Comentarios</h4>
+                    <div class="comenents-fb">
+                <div class="fb-comments fb_iframe_widget fb_iframe_widget_fluid_desktop" data-href="https://animeboom.net/" data-width="100%" data-numposts="6" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=305928539942207&amp;container_width=1170&amp;height=100&amp;href=https%3A%2F%2Fanimeboom.net%2F&amp;locale=es_LA&amp;numposts=6&amp;sdk=joey&amp;version=v3.1" style="width: 100%;"><span style="vertical-align: bottom; width: 100%; height: 1940px;"><iframe name="f1b672453502cb" width="1000px" height="100px" title="fb:comments Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/comments.html" style="border: none; visibility: visible; width: 100%; height: 1940px;" class=""></iframe></span></div>
+            </div>
+    </div>
+</div></section>
+<section class="home-nuevas-series">
+    <div class="ed-container">
+        <div class="ed-item s-100 box-head">
+            <h2 class="box-head__title">
+                Animes recomendados
+            </h2>
+        </div>
+        <div class="ed-item s-100">
+            <div class="list-series">
+                <article class="serie">
+        <figure class="image">
+            <a href="https://animeboom.net/v-relife" title="ReLIFE Online">
+                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_relife-5b2b030019a10.jpg" alt="ReLIFE">
+                <span class="preview-overlay-container">
+            </span>
+            </a>
+            <span class="year">2016</span>
+                              <span class="animes">Anime</span>
+                                                </figure>
+        <div class="title">
+            <h3><a href="https://animeboom.net/v-relife" title="ReLIFE Online">ReLIFE</a></h3>
+        </div>
+    </article>
+    <article class="serie">
+        <figure class="image">
+            <a href="https://animeboom.net/v-shoujo-kageki-revue-starlight-specials" title="Shoujo☆Kageki Revue Starlight Specials Online">
+                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_shoujokageki-revue-starlight-specials-5bd1346344010.jpg" alt="Shoujo☆Kageki Revue Starlight Specials">
+                <span class="preview-overlay-container">
+            </span>
+            </a>
+            <span class="year">2018</span>
+                                                              <span class="specials">Especial</span>
+                </figure>
+        <div class="title">
+            <h3><a href="https://animeboom.net/v-shoujo-kageki-revue-starlight-specials" title="Shoujo☆Kageki Revue Starlight Specials Online">Shoujo☆Kageki Revue Starlight Specials</a></h3>
+        </div>
+    </article>
+    <article class="serie">
+        <figure class="image">
+            <a href="https://animeboom.net/v-akkun-to-kanojo" title="Akkun to Kanojo Online">
+                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_akkun-to-kanojo-5b0841fb5f70b.jpg" alt="Akkun to Kanojo">
+                <span class="preview-overlay-container">
+            </span>
+            </a>
+            <span class="year">2018</span>
+                              <span class="animes">Anime</span>
+                                                </figure>
+        <div class="title">
+            <h3><a href="https://animeboom.net/v-akkun-to-kanojo" title="Akkun to Kanojo Online">Akkun to Kanojo</a></h3>
+        </div>
+    </article>
+    <article class="serie">
+        <figure class="image">
+            <a href="https://animeboom.net/v-darling-in-the-franxx" title="Darling in the FranXX Online">
+                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_darling-in-the-franxx-5b005bbdd4a08.jpg" alt="Darling in the FranXX">
+                <span class="preview-overlay-container">
+            </span>
+            </a>
+            <span class="year">2018</span>
+                              <span class="animes">Anime</span>
+                                                </figure>
+        <div class="title">
+            <h3><a href="https://animeboom.net/v-darling-in-the-franxx" title="Darling in the FranXX Online">Darling in the FranXX</a></h3>
+        </div>
+    </article>
+    <article class="serie">
+        <figure class="image">
+            <a href="https://animeboom.net/v-relife-kanketsu-hen" title="ReLIFE: Kanketsu-hen Online">
+                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/l_relife-kanketsu-hen-5b2b263c92159.jpg" alt="ReLIFE: Kanketsu-hen">
+                <span class="preview-overlay-container">
+            </span>
+            </a>
+            <span class="year">2018</span>
+                                                              <span class="specials">Especial</span>
+                </figure>
+        <div class="title">
+            <h3><a href="https://animeboom.net/v-relife-kanketsu-hen" title="ReLIFE: Kanketsu-hen Online">ReLIFE: Kanketsu-hen</a></h3>
+        </div>
+    </article>
+            </div>
+        </div>
+    </div>
+</section>
+﻿<footer class="main-footer">
+    <div class="ed-container">
+        <div class="main-footer__item">
+            <span>¡Encuentra Todo</span>
+            <p>Nanda Kore
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-44852633-7');
+</script></p>
+        </div>
+        <div class="main-footer__item footer-center">
+            <div class="main-footer__logo">
+                <img src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/logo.png" alt="">
+            </div>
+            <div class="main-footer__social">
+                <a href="https://facebook.com/2113193852299137" target="_blank" class="social-icon fa fa-facebook"></a>
+                <a href="https://facebook.com/" target="_blank" class="social-icon fa fa-twitter"></a>
+                <a href="https://facebook.com/" target="_blank" class="social-icon fa fa-google-plus"></a>
+            </div>
+        </div>
+        <div class="main-footer__item">
+            <span>¡Importante</span>
+            <p>AnimeBoom no aloja absolutamente ningún video en sus servidores. Somos un portal de noticias y buscador de series que publica enlaces de otros sitios web que son de dominio público</p>
+        </div>
+        <div class="nav-footer">
+            <nav class="main-nav-footer">
+                <ul class="nav-content-footer">
+                    <li class="nav-content-footer__item">
+                        <a class="nav-content-footer__link" href="https://animeboom.net/">Home</a>
+                    </li>
+                    <li class="nav-content-footer__item">
+                        <a class="nav-content-footer__link" href="https://animeboom.net/page/aviso-legal">DMCA</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</footer><script src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/jquery.min.js.descarga"></script>
+<script src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/jquery.typewatch.min.js.descarga"></script>
+<script src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/percircle.min.js.descarga"></script>
+<script src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/alertify.min.js.descarga"></script>
+<script src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/scrollbar.js.descarga"></script>
+<script src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/ed-grid.js.descarga"></script>
+    <script src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/owl.carousel.min.js.descarga"></script>
+<script src="./Ver Anime Online en HD Sub Español _ AnimeBoom_files/main.js.descarga"></script>
+<script>
+    $.ajaxSetup({
+        headers: {
+            'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+        }
+    });
+    var baseurl = 'https://animeboom.net';
+     </script>
+    <script>
+        $('.owl-carousel').owlCarousel({
+            loop: true,
+            margin: 4,
+            nav: false,
+            autoWidth: false,
+            autoplay: true,
+            autoPlaySpeed: 5000,
+            autoPlayTimeout: 5000,
+            autoplayHoverPause: true,
+            responsive: {
+                0: {
+                    items: 2
+                },
+                500: {
+                    items: 3,
+                    margin: 4
+                },
+                800: {
+                    items: 6,
+                    margin: 4
+                },
+                1000: {
+                    items: 6,
+                    margin: 4
+                }
+            }
+        });
+    </script>
+
+
+
+</body></html>
